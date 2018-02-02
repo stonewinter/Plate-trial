@@ -1,0 +1,2 @@
+model_checkpoint_path: "PlateRecogNet.ckpt"
+all_model_checkpoint_paths: "PlateRecogNet.ckpt"
